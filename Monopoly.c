@@ -1,30 +1,4 @@
-        //                              Documentation goes here:
-        //              What we have here is a monopoly game, I bet I know what you are
-        //              thinking, "But Logan why does it take you over 2000 line of code
-        //              to make a simple monopoly game?" Short answer is, this is not a
-        //              simple monopoly game. This is life or death win or lose mankind
-        //              vs the machine. My only hope is that the user does not look
-        //              through everything and find tiny holes by which mistakes
-        //              can occur. Take this as a whole and prepare yourself for an
-        //              adventure of the senses.
-
-        //              Just don't prepare yourself too much as this only involves 2
-        //              2 senses max.
-        //                                                      By Logan Stratton
-
-        //      1. Pass by Reference
-        //      2. Structures
-        //      3. Custom Header files
-        //      4. Strings
-        //      5. 2-dimensional array
-        //      6. linked lists
-        //      7. Also there is a hidden recursion function, if you can find it you win, otherwise if you give up you can just search for it by using the word resursive
-
-
-
-
-        // to play the game correctly read everything and press 1 most of the time
-        // to skip into "The Future" pres "1 1 1 1 " a bunch of times; helped me test the program out
+                //This was for csc-250 final project, not very well commented right now will update later for better gameplay and flow
 #include <stdio.h>
 #include <string.h>
 #include <time.h>
