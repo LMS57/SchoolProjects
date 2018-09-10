@@ -7,4 +7,4 @@ clean:
 
 space: space.asm
 	nasm -f elf -F dwarf -g space.asm
-	gcc -g -m32 -o space space.o /usr/local/share/assembly/driver.c
+	gcc -g -m32 -o ./driver.c
