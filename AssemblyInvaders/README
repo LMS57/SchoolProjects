@@ -1,0 +1,2 @@
+This is an Assembly x86 Space Invaders game made for final project in Assembly, to compile user needs nasm and to have all files in the same directory. To play the user only needs to run the space executable. 
+Sha1sum of space executable = 983a5c36224e6785e80d17bfdd2c8c01e58367d0
